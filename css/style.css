@@ -1387,4 +1387,57 @@ new styles
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
+.pb-5{
+  padding-bottom: 5rem;
+}
+.fh5co-nav ul li.has-dropdown .dropdown {
+  width: max-content;
+}
+.mt-3{
+  margin-top: 3rem;
+}
+.mb-3{
+  margin-bottom: 3rem;
+}
+.my-3{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.table-dark{
+  background-color: #000;
+  color: #fff;
+}
+.sermon .play a i {
+  text-align: center;
+}
+.sermon-heading{
+  margin: 0 0 20px 0;
+}
+
+.sermon-entry h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.sermon-single h3 {
+  font-size: 18px;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.fhco-commandery{
+  padding: 5em 3em;
+  clear: both;
+}
+.fhco-join{
+  padding: 3em 3em;
+  clear: both;
+}
+.fh5co-projects{
+  padding: 3em 3em;
+  clear: both;
+}
+textarea.form-control {
+  height: auto !important;
+}
 /*# sourceMappingURL=style.css.map */
