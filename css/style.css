@@ -497,8 +497,9 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #fafafa;
 }
 
+
 #fh5co-about,
-#fh5co-services,
+#fh5co-membership,
 #fh5co-contact,
 #fh5co-sermon,
 #fh5co-bible-verse,
@@ -511,7 +512,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   #fh5co-about,
-  #fh5co-services,
+  #fh5co-membership,
   #fh5co-contact,
   #fh5co-sermon,
   #fh5co-bible-verse,
@@ -1348,5 +1349,42 @@ new styles
 
 .center-block{
   float: none;
+}
+#fh5co-hero .flexslider .slides li {
+  background-position: center;
+}
+.row-center {
+  display: flex;
+  align-items: center;
+}
+#fh5co-hero .flexslider .slider-text {
+  height: auto;
+  margin-top: 20%;
+}
+#fh5co-hero .flexslider .slider-text > .slider-text-inner {
+  background-color: #000;
+  opacity: 0.75;
+}
+#more {
+  display: none;
+}
+.fh5co-dark-grey {
+  background: #000;
+  opacity: 0.95;
+  color: #fff;
+}
+
+.fh5co-heading .text-light{
+  color: #fff
+}
+.fh5co-heading {
+  margin-bottom: 0;
+}
+.form-control {
+  height: 40px !important;
+}
+.py-3{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 /*# sourceMappingURL=style.css.map */
